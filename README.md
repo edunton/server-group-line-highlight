@@ -1,6 +1,6 @@
 # server-group-line-highlight README
 
-This allows you to set the color of the highlight line and to change it depending upon the server group in focus. It is meant to help you visually disinguish between SQL Server environments quickly so you would make updates to the wron enviroments. The extension requires you to be working out of a work space.
+**Azure Data Studio Extension:** This allows you to set the color of the highlight line and to change it depending upon the server group in focus. It is meant to help you visually disinguish between SQL Server environments quickly so you would make updates to the wron enviroments. The extension requires you to be working out of a work space.
 
 ### Command Pallet
 
